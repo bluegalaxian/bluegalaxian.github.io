@@ -7876,3 +7876,9 @@ html > body div > div > div > div > div > div.sidebar__409aa > div.navScroller__
 	transform: unset !important;
 	animation: unset !important;
 }
+.bar_c38106 .title_c38106::before,
+.bar_c38106 .title_c38106::after {
+    display: none !important;
+    content: none !important;
+    background: none !important;
+}
