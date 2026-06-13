@@ -7715,7 +7715,12 @@ html .typingindicator-folder {
 .iconSwatch_ac0584.selected_ac0584 {
 	background-color: rgb(var(--accentcolor));
 }
-
+.bar_c38106 .title_c38106::before,
+.bar_c38106 .title_c38106::after {
+    display: none !important;
+    content: none !important;
+    background: none !important;
+}
 
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
